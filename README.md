@@ -1,0 +1,2 @@
+# fortuneteller-config
+fortuneteller-config
