@@ -1,5 +1,5 @@
 fortuneService:
   scheme: http
-  address: localhost:5000
+  address: fortuneservice-accountable-gorilla.cfapps.io
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
